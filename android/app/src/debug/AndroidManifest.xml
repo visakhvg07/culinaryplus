@@ -1,0 +1,21 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.culinary">   <!-- Replace with your actual package name -->
+
+    <!-- The INTERNET permission is required for development. -->
+    <uses-permission android:name="android.permission.INTERNET"/>
+
+    <application
+        android:label="CulinaryPlus"
+        android:icon="@mipmap/ic_launcher">
+        
+        <!-- Add Firebase services if needed -->
+        <meta-data
+            android:name="com.google.firebase.messaging.default_notification_channel_id"
+            android:value="default_channel" />
+
+        <meta-data
+            android:name="com.google.firebase.analytics.FirebaseAnalytics"
+            android:value="true" />
+        
+    </application>
+</manifest>

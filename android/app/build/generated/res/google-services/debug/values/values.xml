@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">445714580950-utph9idemv2fsnl2gfd1htna7u0pbk97.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">445714580950</string>
+    <string name="google_api_key" translatable="false">AIzaSyAwkz1xkxldjgI1rBKgWO2FZtZWPDr9wZ4</string>
+    <string name="google_app_id" translatable="false">1:445714580950:android:5717739dcc2726dce6d077</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAwkz1xkxldjgI1rBKgWO2FZtZWPDr9wZ4</string>
+    <string name="google_storage_bucket" translatable="false">culinaryplus-8d1e1.firebasestorage.app</string>
+    <string name="project_id" translatable="false">culinaryplus-8d1e1</string>
+</resources>

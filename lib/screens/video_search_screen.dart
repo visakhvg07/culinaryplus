@@ -7,6 +7,8 @@ const String apiKey = "AIzaSyAdew4XahUvC_V2PSNIFDz6BDq7aPs5V0o"; // Replace with
 const String baseUrl = "https://www.googleapis.com/youtube/v3/search";
 
 class VideoSearchScreen extends StatefulWidget {
+  const VideoSearchScreen({super.key});
+
   @override
   _VideoSearchScreenState createState() => _VideoSearchScreenState();
 }
